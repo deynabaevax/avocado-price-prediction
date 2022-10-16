@@ -21,4 +21,4 @@ The dataset comprises of 33045 observations of 13 columns. Below is a table show
 The model, which I used for this challenge was ARIMA/SARIMAX time series forecasting. Below, you can observe the prediction from the model.
 <br>
 
-![download](https://user-images.githubusercontent.com/64732465/196043344-dc49647d-890f-4136-8e50-7753d47c6c6d.png)
+![download (1)](https://user-images.githubusercontent.com/64732465/196043382-15025e99-be32-473f-9864-e4b8ba0b6696.png)
